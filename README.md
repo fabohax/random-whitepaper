@@ -17,7 +17,10 @@ We propose a random game of curators and publishers when both sides gain tokens 
 1. Value Proposition
 
 We propose the INTI as a currency of exchange in a secure, anonymous, opt-in content
-system based in the browser and the mobile app webview. The INTI system provides:
+system based in the browser and the mobile app webview.
+
+The INTI system provides:
+
 • Curators: improved currency revenues when spreading viral content.
 • Inventors: improved currency revenues when creating viral content.
 
