@@ -22,6 +22,7 @@ system based in the browser and the mobile app webview.
 The INTI system provides:
 
 • Curators: improved currency revenues when spreading viral content.
+
 • Inventors: improved currency revenues when creating viral content.
 
 2. Introduction
