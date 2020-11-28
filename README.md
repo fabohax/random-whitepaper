@@ -14,14 +14,14 @@ Users are daily commited to social media content that they contribute like curat
 We propose a random game of curators and publishers when both sides gain tokens depending of the viralization of their files, texts, images, sounds, videos, 3D objects.
 
 
-1 Value Proposition
+1. Value Proposition
 
 We propose the INTI as a currency of exchange in a secure, anonymous, opt-in content
 system based in the browser and the mobile app webview. The INTI system provides:
 • Curators: improved currency revenues when spreading viral content.
 • Inventors: improved currency revenues when creating viral content.
 
-2 Introduction
+2. Introduction
 
 One of the hopes on Internet is to create a tool with we can share information directed to improve humanity in various ways. The production of knowledge on Internet had giveaway a revolution without precedents, the creation of new bonds of freedom, a new worldwide community with new set of expressions replicated because that condition of true. Some content become viral because is recognized for a massive group of people and that replication is a fact that shows a confirmation of social culture and human relationships. The recopilation, aproppiation and manifestation of individual voices that can not have another place to flow their ideas, are one of the pilars of innovation and neccesary disruption to solve human problems. This sharing have the value that is censored in centralized servers that becomes bussiness models of greed. We need a bussiness model for social revolution. A new set of rules wich awards inventors and curators of data objects that can be priced properly by the near community.
 
