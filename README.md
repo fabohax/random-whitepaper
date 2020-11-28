@@ -1,5 +1,4 @@
-# RANDOM
-# WHITEPAPER
+# RANDOM WHITEPAPER
 
 Blockchain Based Meme Game
 
